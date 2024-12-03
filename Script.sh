@@ -11,5 +11,5 @@ sudo rm -r /var/www/html
 # Create DocumentRoot
 sudo mkdir -p /var/www/html
 # Clone Application
-sudo git clone <link> /var/www/html
+sudo git clone https://github.com/PawarJayvardhan/FineWealthCreations.git /var/www/html
 
